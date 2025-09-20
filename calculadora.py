@@ -4,7 +4,7 @@ def celsius_a_fahrenheit(celsius):
 def fahrenheit_a_celsius(fahrenheit):
     return (fahrenheit - 32) * 5/9
 
-# Colaborador 1: Añadir Kelvin a Celsius
+# Soy el colaborador 1: Añadir Kelvin a Celsius
 def kelvin_a_celsius(kelvin):
     return kelvin - 273.15
 
